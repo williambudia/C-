@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuTbrE8aBQTEweOkNXOiGSapwSgSxaraVjsR4UbzaiczwhXoqv298ghHa1fGoH4iNg8U7WS+tFlJbr80oBcA3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\william.araujo\\Downloads\\Exame\\Exame\\Exame\\Exame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william.araujo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\william.araujo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\william.araujo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\william.araujo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
